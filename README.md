@@ -1,6 +1,9 @@
 # const-tact
 Learning CRUD on contact list using REST-API
 
+# Brand Idea
+## Contacts-World
+
 # The Idea
 1. Buat sebuah halaman login register
 2. Akan ada kontak-kontak public dimana dapat diakses semua orang yang telah login
